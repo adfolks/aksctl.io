@@ -1,1 +1,0 @@
-## aksctl - A simplle CLI for AKS Azure Kubernetes Service
