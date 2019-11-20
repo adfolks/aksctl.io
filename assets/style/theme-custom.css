@@ -4,3 +4,6 @@
 body::-webkit-scrollbar {
     display: none; 
 }
+.sidebar ul li.active > a {
+    /* color: red !important; */
+}
